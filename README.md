@@ -2,6 +2,11 @@
 
 # Comandos
 
+- Versão:
+```bash
+java --version
+```
+
 - Compilar:
 ```bash
 javac Principal.java Arquivo2.java Arquivo3.java
